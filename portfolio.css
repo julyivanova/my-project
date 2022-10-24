@@ -1,7 +1,5 @@
-body {
-  background-color: red;
-}
-
 h1 {
-  color: white;
+  color: black;
+  font-family: "JetBrains Mono", monospace;
+  font-weight: bold;
 }
