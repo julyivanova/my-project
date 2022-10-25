@@ -22,3 +22,9 @@ p {
   font-size: 36px;
   font-weight: bold;
 }
+
+.hero h2 {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: normal;
+  font-size: 24px;
+}
