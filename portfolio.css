@@ -13,3 +13,8 @@ p {
   background-color: #f9f7fe;
   text-align: center;
 }
+
+.hero p {
+  font-size: 36px;
+  font-weight: bold;
+}
