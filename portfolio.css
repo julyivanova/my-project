@@ -4,6 +4,10 @@ h1 {
   font-weight: bold;
 }
 
+h1 {
+  font-size: 96px;
+}
+
 p {
   font-family: "JetBrains Mono", monospace;
   font-weight: normal;
