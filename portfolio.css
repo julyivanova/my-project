@@ -1,6 +1,12 @@
 :root {
   --branding-color: #6c63ff;
+  --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
+  --default-font-family: "JetBrains Mono", monospace;
+}
+
+body {
+  font-family: var(--default-font-family);
 }
 
 h1,
@@ -19,12 +25,11 @@ h1 {
 }
 
 p {
-  font-family: "JetBrains Mono", monospace;
   font-weight: normal;
 }
 
 .hero {
-  background-color: #f9f7fe;
+  background-color: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
 }
