@@ -70,3 +70,7 @@ p {
   line-height: 27px;
   padding: 15px 30px;
 }
+
+.project-description {
+  padding: 0 30px;
+}
