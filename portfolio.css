@@ -114,6 +114,10 @@ p {
   max-width: 150px;
 }
 
+nav {
+  padding: 20px 0;
+}
+
 nav ul {
   padding: 0;
   margin: 0;
@@ -122,6 +126,7 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
+  line-height: 42px;
 }
 
 @media (max-width: 900px) {
