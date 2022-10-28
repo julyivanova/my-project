@@ -41,6 +41,11 @@ p {
   padding: 160px 20px;
 }
 
+.about-section {
+  text-align: center;
+  padding: 0;
+}
+
 .hero p {
   font-size: 36px;
   font-weight: bold;
