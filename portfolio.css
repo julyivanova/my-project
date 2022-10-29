@@ -160,6 +160,14 @@ footer .social-links a {
   color: var(--branding-color);
   background: var(--secondary-color);
   padding: 10px;
+  border-radius: 50%;
+  font-size: 18px 14px;
+  transition: all 150ms ease-in-out;
+}
+
+footer .social-links a:hover {
+  color: white;
+  background: var(--branding-color);
 }
 
 @media (max-width: 900px) {
