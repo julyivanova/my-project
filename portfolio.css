@@ -158,6 +158,8 @@ footer .email-link:hover {
 footer .social-links a {
   margin: 0 20px;
   color: var(--branding-color);
+  background: var(--secondary-color);
+  padding: 10px;
 }
 
 @media (max-width: 900px) {
