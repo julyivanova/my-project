@@ -159,10 +159,10 @@ footer .social-links a {
   margin: 0 20px;
   color: var(--branding-color);
   background: var(--secondary-color);
-  padding: 10px;
+  padding: 10px 14px;
   border-radius: 50%;
-  font-size: 18px 14px;
-  transition: all 150ms ease-in-out;
+  font-size: 18px;
+  transition: all 100ms ease-in-out;
 }
 
 footer .social-links a:hover {
